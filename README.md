@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name]
+# Hi, I'm Arsa Fauzi
 
 Frontend Developer | Angular & TypeScript Specialist
 
