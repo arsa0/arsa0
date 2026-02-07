@@ -13,7 +13,6 @@ Passionate about building accessible, performant web applications. Currently foc
 ## Current Focus
 - Building enterprise-grade Angular applications
 - Mastering Angular signals and reactive patterns
-- Contributing to open-source projects
 
 ## Let's Connect
 - LinkedIn: linkedin.com/arsa00
