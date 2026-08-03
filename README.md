@@ -6,7 +6,7 @@ Frontend Developer | Angular & TypeScript Specialist
 Passionate about building accessible, performant web applications. Currently focusing on modern Angular development with signals and standalone components.
 
 ## Tech Stack
-**Frontend:** Angular, TypeScript, RxJS, HTML5, CSS3, Tailwind CSS  
+**Frontend:** React, Vue, Angular, TypeScript, RxJS, HTML5, CSS3, Tailwind CSS  
 **Tools:** Git, npm, Vite, ESLint  
 **Testing:** Jest, Jasmine, Cypress
 
