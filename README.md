@@ -18,4 +18,4 @@ Passionate about building accessible, performant web applications. Currently foc
 - LinkedIn: linkedin.com/arsa00
 - Email: arsafauzi@gmail.com
 
-## Open to frontend development opportunities
+## Open to any development opportunities
